@@ -6,6 +6,8 @@ Learn best by experimenting and doing hands-on practice 🧪
 
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jagnyaseni Naik) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/reenunaik9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagnyaseninaik90@gmail.com) 
 
@@ -17,14 +19,13 @@ Learn best by experimenting and doing hands-on practice 🧪
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGNYASENINAIK&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JAGNYASENINAIK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JAGNYASENINAIK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JAGNYASENINAIK&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
